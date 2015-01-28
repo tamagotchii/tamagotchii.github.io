@@ -1,1 +1,1 @@
-# alejandrosocorro.github.io
+# tamagotchi
